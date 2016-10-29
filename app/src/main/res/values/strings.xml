@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircleMenu</string>
+    <string name="CircleDotProgressBar_speed_up_one_key">一键加速</string>
+    <string name="transition_new_designer_news_post" translatable="false">new_designer_news_post</string>
+    <string name="transition_designer_news_login" translatable="false">transition_designer_news_login</string>
+    <string name="zho">何方寻你</string>
+</resources>
